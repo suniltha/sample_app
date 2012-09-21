@@ -1,0 +1,4 @@
+# Ruby on rails :Sample application
+
+This is an sample application for [*ruby on rails*](http://www.prss.in) 
+by [sunil Tharoor](sunil@prss.in)
